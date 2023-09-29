@@ -1,0 +1,42 @@
+leftnav:
+- identifier: 49892935-2d42-b5ce-e04e-cb6177207e68
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b8167cbc-8898-72c4-287b-28bd9e255af6
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: cd4d5087-2ba6-92cf-5f8f-cef54fc3225c
+  name: Genre and Fiction
+  pageRef: /pages/instructor-insights/genre-and-fiction
+  parent: b8167cbc-8898-72c4-287b-28bd9e255af6
+  weight: 30
+- identifier: fad41871-0fb2-17fb-3f21-37562bb344c9
+  name: 'Teaching Students to Challenge Texts: What is Fantasy?'
+  pageRef: /pages/instructor-insights/teaching-students-to-challenge-texts-what-is-fantasy
+  parent: b8167cbc-8898-72c4-287b-28bd9e255af6
+  weight: 40
+- identifier: a41bee25-68c6-a42c-f056-1dfa653dbc3a
+  name: Selecting and Approaching Books
+  pageRef: /pages/instructor-insights/selecting-and-approaching-books
+  parent: b8167cbc-8898-72c4-287b-28bd9e255af6
+  weight: 50
+- identifier: dcaf70be-7e6c-e157-6cb6-00fa658bac39
+  name: Teaching MIT Students
+  pageRef: /pages/instructor-insights/teaching-mit-students
+  parent: b8167cbc-8898-72c4-287b-28bd9e255af6
+  weight: 60
+- identifier: fbfcb32a-55d7-6fb0-9875-19dffd4fb694
+  name: Course Components
+  pageRef: /pages/instructor-insights/course-components
+  parent: b8167cbc-8898-72c4-287b-28bd9e255af6
+  weight: 70
+- identifier: 080849a4-a03f-02bc-56aa-00a7de16547f
+  name: Calendar and Readings
+  pageRef: /pages/calendar-and-readings
+  weight: 80
+- identifier: bb7af00c-1eb0-8407-9cd8-05166e8ba5ae
+  name: Assignments and Student Work
+  pageRef: /pages/assignments-and-student-work
+  weight: 90
