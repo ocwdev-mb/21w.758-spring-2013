@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ]
+  ],
+  "legacy_uid": "f1e4b1d6-0df7-f021-1dce-a326343bd64f",
+  "instructors": {
+    "content": [
+      "4188f62e-353d-9a45-df34-1d869485e93a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "91c00eb7-a018-9480-f945-78153644e0d4",
+    "website": "21w-758-genre-fiction-workshop-spring-2013"
+  },
+  "course_title": "Genre Fiction Workshop",
+  "course_description": "Some argue that genre fiction is only a marketing category, but other critics say that different genres meet specific expectations of readers. This course examines these different agreements of what the reader wants and what the writer provides under the aegis of different genres. We will look at how genres are divided into subgenres, and how they are combined into cross-genre work, always keeping in mind the Reader-Writer Contact that is at the heart of genre writing. We shall also think about the ways in which crossing genres has led to the establishment of new genres (steampunk, preternatural romance) and strongly established subgenres (historical mystery, urban fantasy).\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.758",
+  "course_image_thumbnail": {
+    "content": "e234ba7d-8a08-2672-6a0a-8868ba850098",
+    "website": "21w-758-genre-fiction-workshop-spring-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Instructor Insights"
+  ],
+  "site_uid": "ded00c22-f972-43ae-b4fd-a448b1248e41",
+  "site_short_id": "21w.758-spring-2013",
+  "title": "Course Metadata"
+}
